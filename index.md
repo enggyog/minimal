@@ -1,6 +1,4 @@
-# Data Science Portfolio
----
-## Machine learning
+# Data Science Manager , Accenture strategy and consulting
 
 ### Cognitive Liquidity Forecasting
 
