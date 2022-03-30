@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+# Data Science Manager , Accenture strategy and consulting
 
-You can use the [editor on GitHub](https://github.com/enggyog/portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Cognitive Liquidity Forecasting
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Cognitive Liquidity Forecasting was an time series analytics project with one of the TOP US bank to predict their cash as per compliance so that they can utilize it in a better way.
+Used python spark with time series algorithms to deliver this project. Got FSS sector award in IBM(Trailblazer) for this project.
 
-### Markdown
+---
+### AML Consultancy and solution design
+Worked as technical consultant and solution designer around Anti money laundering subject areas.
+Real time KYC and AML backend build was one of the projects i completed here using open source technologies ,sas viya and aws.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Fraud Analytics with Indian stock exchnage
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/enggyog/portfolio/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Worked on critical logic development and implementation of fraud detection with Indian stock exchnage regulator.
